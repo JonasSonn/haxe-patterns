@@ -1,0 +1,12 @@
+{
+    "name": "patterns",
+    "url" : "https://github.com/JonasSonn/haxe-patterns",
+    "license": "MIT",
+    "tags": ["cross", "patterns", "designpatterns", "design"],
+    "description": "A simple library to help you utilize common design patterns",
+    "version": "0.1.0",
+    "classPath": "src/",
+    "releasenote": "Initial release, includes Strategy pattern ",
+    "contributors": ["JonasSonn"],
+    "dependencies": {}
+  }

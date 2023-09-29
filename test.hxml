@@ -1,0 +1,6 @@
+-L utest
+-p src
+-p test
+-L test-adapter
+
+--run RunAll
